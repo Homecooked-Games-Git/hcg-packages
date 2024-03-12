@@ -1,0 +1,35 @@
+# Ignore everything
+/*
+/*/
+ 
+# Inverse ignore some stuff
+!/Assets/
+!/ProjectSettings/
+!Jenny.properties
+!.gitignore
+!/Packages/
+
+/Packages/packages-lock.json
+!JenkinsFile
+!Jenkinsfile_iOS.jdp
+!Jenkinsfile_Android.jdp
+/Assets/3rdParty/FastScriptReload
+/Assets/3rdParty/FastScriptReload.meta
+/Assets/Plugins/Layer Lab/
+Assets/Plugins/Layer Lab.meta
+!GooglePackages
+
+    
+# OS Stuff
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+$RECYCLE.BIN/
+Desktop.ini
+
+**/ProjectSettings/RiderScriptEditorPersistedState.asset
+
+!/Assets/Buildtool/Editor/Bin~

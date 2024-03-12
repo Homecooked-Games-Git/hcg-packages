@@ -1,0 +1,9 @@
+[submodule "Assets/hcg-extensions"]
+	path = Assets/hcg-extensions
+	url = https://github.com/Homecooked-Games-Git/hcg-extensions.git
+[submodule "Assets/hcg-packagemanager"]
+	path = Assets/hcg-packagemanager
+	url = https://github.com/Homecooked-Games-Git/hcg-packagemanager.git
+[submodule "Assets/hcg-observerservice"]
+	path = Assets/hcg-observerservice
+	url = https://github.com/Homecooked-Games-Git/hcg-observerservice.git
