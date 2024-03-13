@@ -1,0 +1,15 @@
+{
+  "name": "com.hcg.default",
+  "version": "1.0.0",
+  "displayName": "Default",
+  "description": "HC Default",
+  "unity": "2019.1",
+  "dependencies": {
+    
+  },
+  "author": {
+    "name" : "Homecooked Games"
+  },
+  "keywords": [
+  ]
+}
